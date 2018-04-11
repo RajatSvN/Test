@@ -1,2 +1,3 @@
 i am test file
 please add me to the git repository
+This file was changed
